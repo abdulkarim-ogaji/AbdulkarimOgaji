@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdulkarimOgaji
-- 👀 I’m interested in go programming language, everything react, node and typescript
-- 🌱 I’m currently learning react-native, web3 & solidity
+- 👀 I’m interested in everything react (redux, react-query, react-spring), typescript and go programming language
+- 🌱 I’m currently learning react-native
 - 📫 How to reach me abdulkarimogaji@gmail.com
 
 <!---
